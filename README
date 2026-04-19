@@ -1,0 +1,32 @@
+# Vending System CLI
+
+## 📌 Overview
+The Vending System CLI is a Python-based command-line application that simulates a real-world vending machine. It handles product selection, stock management, payment processing, and transaction logging.
+
+---
+
+## 🎯 Purpose
+This project demonstrates core programming concepts such as:
+- Control flow
+- User input validation
+- File handling
+- Basic system design
+
+---
+
+## ⚙️ Features
+- Product selection via command-line interface
+- Stock validation and management
+- Payment simulation with change calculation
+- Transaction logging system
+
+---
+
+## 🛠️ Tech Stack
+- Python
+
+---
+
+## 🚀 How to Run
+```bash
+python src/main.py
